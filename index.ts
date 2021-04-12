@@ -37,6 +37,7 @@ function main() {
   celular.setApps(["Google", "Instagram", "Facebook"]);
   console.log(celular);
   console.log(celular.getAppsReverse());
+  console.log("cambios");
 }
 
 main();
